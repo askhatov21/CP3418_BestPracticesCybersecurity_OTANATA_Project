@@ -1,5 +1,8 @@
 # CP3418_BestPracticesCybersecurity_OTANATA_Project
-CVE-2024-3273 — Authorized Penetration Test Report D-Link DNS-320L NAS | Client: Otonata
+CVE-2024-<img width="651" height="401" alt="Снимок экрана 2026-04-25 в 5 15 52 PM" src="https://github.com/user-attachments/assets/9a942070-af33-44cf-831f-d2c86f8fa7f7" />
+<img width="587" height="154" alt="Снимок экрана 2026-04-25 в 5 15 44 PM" src="https://github.com/user-attachments/assets/51d657d1-4b3f-46fe-b40c-d1e594c82dcb" />
+<img width="907" height="500" alt="Снимок экрана 2026-04-25 в 5 15 35 PM" src="https://github.com/user-attachments/assets/363e836f-01e5-4dea-a50f-908c2acaf1c7" />
+3273 — Authorized Penetration Test Report D-Link DNS-320L NAS | Client: Otonata
 
 
 Overview
